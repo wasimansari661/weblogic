@@ -1,0 +1,51 @@
+Installation:
+
+First please try installing on the CAP laptop with VPN, so that you can use the CAP linux DB.
+
+user: sys
+pass: cusis_slf123
+
+HOST = in-mum-fuapphcm.corp.capgemini.com
+Prot : 1522
+SID = orcl
+
+-------------------------------------------------------------------
+
+Java(above 1.8):
+
+Set JAVA_HOME
+
+-------------------------------------------------------------------
+Oracle DB(If not using CAP VPN on Cap Lap or using personal laptop, then please first create DB):
+
+https://www.oracle.com/database/technologies/xe-downloads.html
+
+Oracle DB Version:
+18c
+
+-------------------------------------------------------------------
+
+Oracle WebLogic link:
+https://www.oracle.com/middleware/technologies/weblogic-server-installers-downloads.html
+
+Oracle WebLogic Version: 
+12.2.1.2
+
+Note:
+
+Global link for any Oracle products:
+http://edelivery.oracle.com/
+
+
+--------------------------------------------------------------------
+
+Orale SOA Suite:
+http://edelivery.oracle.com/
+
+Search Name: Oracle SOA Suite
+
+Orale SOA Version:
+12.2.1.2
+
+If unable to downloads then please use the below link for SOA version-12.2.1.3.0
+https://www.oracle.com/middleware/technologies/soasuite/downloads.html
